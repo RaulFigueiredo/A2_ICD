@@ -1,3 +1,4 @@
+
 # A2 Introdução à Ciência de Dados
 Trabalho de conclusão da disciplina Introdução à Ciência de Dados
 
@@ -17,3 +18,4 @@ Antes de começarmos a explorar a base definimos quatro perguntas para termos um
 - O faturamento acompanha a nota IMDB?
 
 Mais detalhes e comentários em geral estão no notebook.
+
